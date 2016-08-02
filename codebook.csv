@@ -1,0 +1,60 @@
+Yearly Dataset ,
+Variable,Description
+year,Year
+polar,Emotional Polarity
+dpolar,First-Difference (Emotional Polarity)
+recession,Recession
+election,Election
+wars,Wars
+conservative,Party Variable (Conservative = 1)
+ldisp,Labor Disputes (Log)
+unemp,Unemployment
+misery,Misery Index
+gdpg,GDP Growh
+polarg,Emotional Polarity (Government)
+polaro,Emotional Polarity (Opposition)
+polarg_graph,Emotional Polarity (Government) – Original Scale
+polaro_graph,Emotional Polarity (Opposition)– Original Scale
+ww1,World War 1 – Binary Variable
+ww2,World War 2 – Binary Variable
+angloirish,Irish War of Independence – Binary Variable
+korean,Korean War – Binary Variable
+falkland,Falklands War – Binary Variable
+irak,Irak War – Binary Variable
+afghan,Afghanistan War – Binary Variable
+troubles,Troubles – Binary Variable
+troubles69,Troubles – 1969 Violence Peak – Binary Variable
+troubles72,Troubles – 1972 Violence Peak – Binary Variable
+(Note: Continuous Variables Normalized),
+,
+Quarterly Dataset,
+Variable,Description
+year,Year
+quarter,Quarter
+date,Year-Quarter Indicator
+polar,Emotional Polarity
+dpolar,First-Difference (Emotional Polarity)
+recession,Recession
+election,Election
+wars,Wars
+conservatives,Party Variable (Conservative = 1)
+polarg,Emotional Polarity (Government)
+polaro,Emotional Polarity (Opposition)
+ldisp,Labor Disputes (Log)
+unemp,Unemployment
+misery,Misery Index
+gdpg,GDP Growh
+ww1,World War 1 – Binary Variable
+ww2,World War 2 – Binary Variable
+angloirish,Irish War of Independence – Binary Variable
+korean,Korean War – Binary Variable
+falkland,Falklands War – Binary Variable
+irak,Irak War – Binary Variable
+afghan,Afghanistan War – Binary Variable
+troubles,Troubles – Binary Variable
+troubles69,Troubles – 1969 Violence Peak – Binary Variable
+troubles72,Troubles – 1972 Violence Peak – Binary Variable
+nrcpol,NRC Polarity Lexicon
+ofpol,OpinionFinder Polarity Lexicon
+swnpol,SentiWordNet Polarity Lexicon
+(Note: Continuous Variables Normalized),
