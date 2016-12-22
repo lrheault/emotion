@@ -3,9 +3,9 @@
 
 This page contains scripts, data and the final lexicon used for a forthcoming study of emotional polarity in the British House of Commons.  In particular, the file (lexicon-polarity.csv) could be used as an off-the-shelf lexicon for studying sentiment in British political texts.  The lexicon was created based on the full corpus of the British Hansard for the period 1909-2013.  Details regarding the methodology appear in the text.  
 
-If using these materials, please cite the study as follows (full citation and link will be updated shortly):
+If using these materials, please cite the study as follows (<a href="http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0168843" target="_blank">click this link to access the study</a>):
 
-Rheault, Ludovic, Kaspar Beelen, Christopher Cochrane and Graeme Hirst.  2016.  "Measuring Emotion in Parliamentary Debates with Automated Textual Analysis".  PLOS ONE.
+Rheault, Ludovic, Kaspar Beelen, Christopher Cochrane and Graeme Hirst.  2016.  "Measuring Emotion in Parliamentary Debates with Automated Textual Analysis".  <i>PLoS ONE</i> 11(12): e0168843. 
 
 The following list describes the purpose of each script and data file.
 
