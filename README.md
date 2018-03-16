@@ -3,7 +3,7 @@
 
 This page contains scripts, data files as well as the final lexicon used for a study of emotional polarity in the British House of Commons.  The file <i>lexicon-polarity.csv</i> is an emotional polarity lexicon trained on the entire British Hansard for the period 1909-2013.  It can be used as an off-the-shelf lexicon for studying sentiment in political texts.  It has the benefit of being adapted to the domain under study and is robust to the evolution of language during the past century.  
 
-Details regarding the methodology appear in the text.  
+Details regarding the methodology appear in the text.  The raw corpus of parliamentary debates can be accessed here: http://search.politicalmashup.nl/ 
 
 If using these materials, please cite the study as follows (<a href="http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0168843" target="_blank">click this link to access the full study</a>):
 
