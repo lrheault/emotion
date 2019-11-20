@@ -21,6 +21,8 @@ Rheault, Ludovic, Kaspar Beelen, Christopher Cochrane and Graeme Hirst.  2016.  
 }
 </pre>
 
+A previous version of the same manuscript was circulated online and presented in 2015 at the CPSA conference: Rheault, Ludovic, Kaspar Beelen, Christopher Cochrane and Graeme Hirst.  2015.  "Measuring Emotion in Political Debates Using Natural Language Processing".  Presented at the 87th Annual Conference of the Canadian Political Science Association, Ottawa, ON, Canada, June 2-4, 2015 (http://www.cpsaevents.ca/2015/CPSA_APSC_2015PROGRAMME.pdf).  Use the link mentioned above for the most recent version.  
+
 The following list describes the purpose of each script and data file.
 
 <h2>Scripts</h2>
