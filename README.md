@@ -2,11 +2,11 @@
 
 <h1>Corpus Information</h1>
 
-Since the publication of this study, new resources have become available to access the British Hansard in digitized format. I would recommend using the data from the They Work for You project, which seems to be the most up-to-date (https://www.theyworkforyou.com/).
+Since the publication of this study, new resources have become available to access the British Hansard in digitized format. I would recommend using the data from the <a href="https://www.theyworkforyou.com/" target="_blank">They Work for You</a> project, which seems to be the most up-to-date.
 
 I've included a script in this repo (webscrape_hansard.py) showing how to fetch the data and save into a csv file. Feel free to edit and retrieve elements you want to access. The "They Work for You" dataset covers the period from 1919 to now. 
 
-Historical files are available here: http://www.hansard-archive.parliament.uk/ 
+Historical files are available here: <a href="http://www.hansard-archive.parliament.uk/" target="_blank">http://www.hansard-archive.parliament.uk/</a>
 
 <h2>Supporting Scripts and Lexicon</h2>
 
