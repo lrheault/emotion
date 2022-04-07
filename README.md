@@ -1,9 +1,18 @@
 <h1>Measuring Emotion in Parliamentary Debates with Automated Textual Analysis</h1>
+
+<h1>Corpus Information</h1>
+
+Since the publication of this study, new resources have become available to access the British Hansard in digitized format. I would recommend using the data from the They Work for You project, which seems to be the most up-to-date (https://www.theyworkforyou.com/).
+
+I've included a script in this repo (webscrape_hansard.py) showing how to fetch the data and save into a csv file. Feel free to edit and retrieve elements you want to access. The "They Work for You" dataset covers the period from 1919 to now. 
+
+Historical files are available here: http://www.hansard-archive.parliament.uk/ 
+
 <h2>Supporting Scripts and Lexicon</h2>
 
 This page contains scripts, data files as well as the final lexicon used for a study of emotional polarity in the British House of Commons.  The file <i>lexicon-polarity.csv</i> is an emotional polarity lexicon trained on the entire British Hansard for the period 1909-2013.  It can be used as an off-the-shelf lexicon for studying sentiment in political texts.  It has the benefit of being adapted to the domain under study and is robust to the evolution of language during the past century.  
 
-Details regarding the methodology appear in the text.  The raw corpus of parliamentary debates can be accessed here: http://search.politicalmashup.nl/ 
+Details regarding the methodology appear in the text.  The raw corpus of parliamentary debates can be accessed here: http://search.politicalmashup.nl/ (link now dead).
 
 If using these materials, please cite the study as follows (<a href="http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0168843" target="_blank">click this link to access the full study</a>):
 
